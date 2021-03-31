@@ -56,3 +56,99 @@ header{
 }
 
 /* header end */
+/* banner start */
+.banner{
+    /* background-image: url(../image/); */
+    background-color: black;
+
+}
+.banner-content{
+    margin: 100px 0;
+    width: 50%;
+
+}
+.banner-content h1{
+    font-family: sans-serif;
+    font-Size :57px ;
+    font-weight:700 ;
+    color: whitesmoke;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.b-p{
+    text-transform: capitalize;
+}
+.banner-content p{
+    margin: 0 0 15px;
+    font-family: sans-serif;
+    font-size:17px;
+    font-weight:400 ;
+    color: whitesmoke;
+    
+}
+.banner-content button{
+    margin: 20px 0 0;
+    width: 250px;
+    height: 45px;
+    background-color: #BC223E;
+    border: none;
+    font-family: sans-serif;
+    font-size: 14px ;
+    font-weight:400;
+    transition: .3s;  
+}
+button:hover{
+    color:#BC223E;
+    background-color: white;
+}
+.top{
+ margin: 0 auto;
+ width: 75%;
+ text-align: center;
+ border: 1px solid;
+}
+.w-h1{
+    margin: 0 0 20px;
+    font-size:30px ;
+    font-family:sans-serif ;
+    font-weight:700 ;
+    color:black;
+    text-transform: uppercase;
+
+}
+.w-p{
+    margin: 0;
+    font-size:17px ;
+    font-family:sans-serif ;
+    font-weight:400 ;
+    color: #a7a7a7;
+    
+}
+.bottom{
+    overflow: hidden;
+
+}
+.single{
+    margin: 0 3%;
+width: 25%;
+/* border: 1px solid; */
+text-align: center;
+padding: 30px 1.15% 0;
+float: left;
+}
+.s-img{
+    margin: 0 auto;
+width: 50%;
+margin: 0 auto;
+/* border: 1px solid; */
+}
+.s-img img{
+width: 100%;
+}
+.single p{
+    margin: 25px 0;
+    font-size:17px ;
+    font-family:sans-serif ;
+    font-weight:400 ;
+    color: #1e1e1e;
+}
