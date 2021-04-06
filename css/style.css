@@ -11,7 +11,7 @@ header{
     width:80%;
     margin: 0 auto;
     overflow: hidden;
-    /* border: 1px solid red;    */
+   /* border: 1px solid red;*/
 }
 
 .logo {
@@ -65,7 +65,7 @@ header{
 }
 .banner-content{
     margin: 90px 0;
-    width: 50%;
+    width: 49%;
 
 }
 .banner-content h1{
@@ -376,7 +376,7 @@ footer{
     margin-top: 20px;
     padding: 3px 11px;
     width: 182px;
-    height: 25px;
+    height: 26px;
     border: 3px solid rgb(167, 167, 167);
 }
 .newsletter input:focus{
@@ -395,8 +395,8 @@ footer{
     border: 0px solid;
     border-radius: 2%;
     position: absolute;
-    top: 20px;
-    right: -16px;
+    top: 20.5px;
+    right: -11px;
     transition: .3s;
 }
 .form_btn:hover{
